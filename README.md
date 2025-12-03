@@ -6,6 +6,9 @@ KI Research Institute
 
 Keywords: Soft Decision Tree, Short-term Memory Soft Decision Tree, Explainability
 
+[Click here for an explanation regarding the code and how to start: https://github.com/KI-Research-Institute/Soft-Decision-Tree/blob/main/Instructions]
+
+
 Background and overview
 
 A soft decision tree (SDT) is a variant of the traditional decision tree where the splits at internal nodes are probabilistic rather than deterministic [1]. A single SDT that is trained for classification can approximate multiple hard decision trees. Therefore, it forms a compact representation for the trained tree-based classifier. It can be visualized and analysed to provide insights regarding the classifier results and the trained dataset (e.g. feature importance). Moreover, the SDT can be incorporated as a backbone for the development of novel tree-based machine-learning architectures. For a detailed description of SDT, the reader is referred to [1], [2]. 
