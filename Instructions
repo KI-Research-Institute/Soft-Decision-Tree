@@ -1,5 +1,7 @@
 The best way to start is probably running a single clinical classification experiment (run experiment_02_01.py after adjusting the paths)
 
+Here is a short description of the code
+
 SoftDecisionTree.py – Soft Decision Tree related classes and methods. Including visualization and probability tracking.
 
 ShortMemorySoftDecisionTree.py – An extension class implementing Short-term Memory Soft Decision Tree.
